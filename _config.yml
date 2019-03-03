@@ -1,0 +1,35 @@
+# Site Settings
+name: Thiago Nascimento
+title: Thiago Nascimento
+description: "Software Developer"
+url: ""
+
+
+# Online Profiles
+linkedin_username:  thiago-nascimento-tn1986
+github_username:    tnascimento
+instagram_username: thiagodancer
+facebook_username:  thiago.nascimento.1986
+email:              tnascimento.thiago@gmail.com
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars.githubusercontent.com/tnascimento"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
